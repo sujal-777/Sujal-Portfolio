@@ -14,32 +14,33 @@ export const services = [
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Sujal';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'company': 'WebStack Academy',
+        'role': 'MERN Stack Developer(Intern)',
+        'duration': 'July 2024 - Present',
+        'logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgY5xC2kbgmkuVxyw7_aZEO0oIa2kZ6hXsQ&s',
         'points': [
             'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
             'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
             'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
             'Implemented data security for the company’s product to provide role-based access control ⚙️.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://www.webstackacademy.com/#home',
     },
     {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
+        'company': 'CodSoft',
+        'role': 'Web Dev Intern',
+        'duration': 'DEC 2023 - JAN 2024',
+        'logo': 'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/Aq20eV79zLfpXV6b/1685789339697-YrDL60zzRBfzM6Wr.jpg',
         'points': [
             'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
+            'Developed multiple User Friendly Projects 📱.',
+            'Technology Used - HTML, CSS, JavaScript, NodeJs, GIT'
         ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.codsoft.in/',
     },
 ]
 
