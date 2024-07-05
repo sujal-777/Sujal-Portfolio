@@ -69,7 +69,7 @@ const ProjectCard = ({ image, title, description, git, technologies }) => {
 
 const Projects = () => {
   return (
-    <div className="area relative z-0 bg-black w-screen h-screen mt-8">
+    <div className="area relative z-0 bg-black w-full h-full mt-8">
       <ul class="circles">
         <li></li>
         <li></li>

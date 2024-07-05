@@ -21,7 +21,7 @@ const Home = () => {
   }, [text]);
 
   return (
-    <div className="area relative z-0 bg-black w-screen h-screen">
+    <div className="area relative z-0 bg-black w-full h-full">
       <ul class="circles">
         <li></li>
         <li></li>

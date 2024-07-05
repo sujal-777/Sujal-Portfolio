@@ -12,7 +12,7 @@ import Background from "./Background";
 const Experience = () => {
   return (
     <div
-      className="experience bg-black w-screen text-white pt-8 pt-16 h-screen w-screen-x-hidden"
+      className="experience bg-black w-screen text-white pt-8 h-full w-full-x-hidden"
       id="experience"
     >
       <ul class="circles">
