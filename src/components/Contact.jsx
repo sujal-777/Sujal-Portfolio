@@ -85,7 +85,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="relative z-0 bg-black w-screen h-screen mt-12">
+    <div className="relative z-0 bg-black w-full h-full mt-12">
       <ul class="circles">
         <li></li>
         <li></li>

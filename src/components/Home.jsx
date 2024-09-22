@@ -48,7 +48,7 @@ const Home = () => {
           </p>
 		  <br /><br /><br />
           <ButtonLink
-            url="https://docs.google.com/document/d/14H0FDivvmYsD8k9MIAPx4qi-9l4JXS4HrrlmE0gYGE4/edit?usp=sharing"
+            url="https://drive.google.com/file/d/1tB6ovYpYmlHrg-Hh9rFUpeJ7boFLRbKS/view?usp=sharing"
             text="View Resume →"
             padding={`p-3`}
           />
