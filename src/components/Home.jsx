@@ -48,13 +48,13 @@ const Home = () => {
           </p>
 		  <br /><br /><br />
           <ButtonLink
-            url="https://drive.google.com/file/d/1tB6ovYpYmlHrg-Hh9rFUpeJ7boFLRbKS/view?usp=sharing"
+            url="https://drive.google.com/file/d/1q3Ulu7PWtoRkEPppFfFhixAfSDYzmdTP/view?usp=drive_link"
             text="View Resume →"
             padding={`p-3`}
           />
         </div>
       </div>
-      <Footer />
+      <Footer className = "sticky bottom-0" />
     </div>
   );
 };
